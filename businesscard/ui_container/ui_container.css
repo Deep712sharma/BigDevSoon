@@ -1,0 +1,22 @@
+html * 
+{
+    padding-right: 14px;
+    padding-left: -43px;
+}
+body 
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aquamarine;
+}
+.card
+{
+    height: 490px;
+    width: 1240px;
+    margin-top: 120px;
+    margin-left: 125px;
+    margin-right: 120px;
+    margin-bottom: 120px;
+    background-color: azure;
+    border-radius: 20px;
+}

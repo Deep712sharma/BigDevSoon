@@ -1,0 +1,70 @@
+html * 
+{
+    padding-right: 14px;
+    padding-left: -43px;
+}
+body 
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aquamarine;
+}
+.card
+{
+    height: 490px;
+    width: 1240px;
+    margin-top: 120px;
+    margin-left: 125px;
+    margin-right: 120px;
+    margin-bottom: 120px;
+    background-color: azure;
+    border-radius: 20px;
+}
+.contact
+{
+    height: 490px;
+    width: 310px;
+    background-color: darkgreen;
+}
+.text
+{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 270px;
+    font-weight: 600;
+    font-size: large;
+}
+hr
+{
+    border-width: 2px;
+    padding-left: 307px;
+    margin-top: 30px;
+}
+.fa
+{
+    padding: 15px;
+    font-size: 15px;
+    width: 10px;
+    text-align: center;
+    margin-left: 30px;
+}
+.fa-facebook 
+{
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter
+{
+    background-color: #3B5998;
+    color: white;
+}
+.fa-linkedin
+{
+    background-color: #3B5998;
+    color: white;
+}
+.fa-instagram
+{
+    background-color: mediumvioletred;
+    color: white;
+}
